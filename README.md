@@ -1,5 +1,6 @@
 # Data Analysis Module - Queens University Belfast.
-This repository contains the jupyter notebooks and the original data, which were 40% of the module. 
+This repository contains the jupyter notebooks and the original data, which represents 40% of the module rubric.
+Jupyter Notebooks, Python, Pandas, Matplotlib and Seaborne (data visualisation libraries), were all self taught.
 
 ## Week 4 Aims;
 - Clean a publicly available dataset to faciliate future analysis.
