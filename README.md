@@ -13,3 +13,4 @@ Jupyter Notebooks, Python, Pandas, Matplotlib and Seaborne (data visualisation l
 - Produce a pivot table and a scatterplot with a fitted trend line and highlight groups within the scatter plot based on another categorical column of data.
 - Problem solving python, pandas, jupyter notebooks, matplotlib and seaborne issues, plus data cleaning problems.
 - Draw conclusions from visualisations, including a density plot and a scatter plot.
+- Derive valuable avenues to explore for future Data Analysts.
